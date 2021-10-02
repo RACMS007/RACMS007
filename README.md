@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RACMS007
 - 👀 I’m interested in ...building a time sheet application
-- 🌱 I’m currently learning ... Visual Basic.NET 
+- 🌱 I’m currently learning ... Visual Basic.NET or Python
 - 💞️ I’m looking to collaborate on ... sample program
 - 📫 How to reach me ... racms007@hotmail.com
 
